@@ -1,7 +1,3 @@
-
----
-
-```markdown
 # 🗺️ U.S. States Game 🇺🇸
 
 A fun interactive geography game built with Python 🐍 and the `turtle` graphics module. Guess all 50 U.S. states and watch them appear on a map as you play!
@@ -15,8 +11,6 @@ A fun interactive geography game built with Python 🐍 and the `turtle` graphic
 - If correct, the state name appears at the right spot on the map.
 - Type `"Exit"` at any time to stop the game.
 - A CSV file (`states_to_learn.csv`) will be generated, listing all the states you missed.
-
----
 
 ---
 
@@ -45,7 +39,7 @@ pip install pandas
 4. Navigate to the project directory:
 
 ```bash
-cd path/to/us-states-game
+cd path/to/us-states-quiz-game
 ```
 
 5. Run the game:
@@ -67,8 +61,7 @@ python main.py
 
 ## 📸 Screenshots
 
-> *(Add screenshots here if available)*
-> For example, showing the map with correctly guessed states labeled.
+> ![U.S. States Game Screenshot](screenshot.png)
 
 ---
 
@@ -90,8 +83,3 @@ python main.py
 ## 📄 License
 
 This project is open-source and free to use under the [MIT License](LICENSE).
-
-```
-
----
-
