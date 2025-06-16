@@ -18,17 +18,6 @@ A fun interactive geography game built with Python 🐍 and the `turtle` graphic
 
 ---
 
-## 📂 Project Structure
-
-```
-
-📁 us-states-game/
-├── main.py                # Main game logic
-├── 50\_states.csv          # List of states with x and y coordinates
-└── blank\_states\_img.gif   # Map image of the U.S.
-
-````
-
 ---
 
 ## 🛠️ Requirements
@@ -91,16 +80,9 @@ python main.py
 
 ---
 
-## 📚 Acknowledgments
-
-* [Angela Yu's Python Bootcamp](https://www.udemy.com/course/100-days-of-code/)
-* \[U.S. States map image from Udemy resources]
-
----
-
 ## 🧑‍💻 Author
 
-**Your Name**
+**Sreejith A Sreenivasan**
 *Python Developer & Learner*
 
 ---
@@ -113,8 +95,3 @@ This project is open-source and free to use under the [MIT License](LICENSE).
 
 ---
 
-Let me know if you want:
-- Screenshots added (you can send an image).
-- Your name/link or profile added.
-- Any tweaks to the tone (e.g., casual, technical, beginner-friendly).
-```
